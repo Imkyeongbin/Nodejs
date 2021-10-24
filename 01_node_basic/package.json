@@ -1,0 +1,17 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
+  }
+}
