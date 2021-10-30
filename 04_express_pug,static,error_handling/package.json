@@ -1,5 +1,5 @@
 {
-  "name": "node_basic",
+  "name": "node_pug",
   "version": "1.0.0",
   "description": "",
   "main": "src/main.js",
@@ -9,8 +9,13 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  },
   "devDependencies": {
+    "@types/express": "^4.17.13",
     "@types/node": "^16.11.4",
     "nodemon": "^2.0.14",
     "prettier": "^2.4.1",
